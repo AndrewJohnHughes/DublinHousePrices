@@ -28,7 +28,7 @@ Ballyboughal,Fingal,53.5208,-6.2667
 Sandyford,Dún Laoghaire–Rathdown,53.2768,-6.2243
 Booterstown,Dún Laoghaire–Rathdown,53.3087,-6.1964
 Drimnagh,,53.3264,-6.3188
-"Newcastle, South Dublin",South Dublin,53.2998,-6.501
+Newcastle,,53.2998,-6.501
 Terenure,South Dublin,53.3097,-6.2853
 Ballymount,,53.3070,-6.3517
 Adamstown,South Dublin,53.3307,-6.4591
@@ -43,6 +43,6 @@ Kilmainham,,53.3420,-6.3080
 Finglas,,53.3910,-6.2887
 Carrickmines,Dún Laoghaire–Rathdown,53.2496,-6.1823
 Monkstown,Dún Laoghaire–Rathdown,53.2844,-6.1380
-Donaghmede,,53.3938,-6.1503
-"Sutton, Dublin",Fingal,53.3895,-6.1103
+,,,
+Sutton,,#FIELD!,#FIELD!
 Kilbarrack,,53.3938,-6.1503
