@@ -1,4 +1,4 @@
-﻿year,sale_date,price,description_of_property,property_size_description,formatted_address,latitude,longitude,geo_county
+﻿year,sale_date,price_2,description_of_property,property_size_description,formatted_address,latitude,longitude,geo_county
 2013,19/12/2013,250000,New,,"Northumberland Court, Northumberland Rd, Dublin 4, Ireland",53.336927,-6.2386306,Dublin City
 2015,16/10/2015,254625,New,greater than or equal to 38 sq metres and less than 125 sq metres,"60 The Elms, Rathingle, Co. Dublin, Ireland",53.4478504,-6.252308,Fingal
 2017,19/06/2017,299559,New,greater than or equal to 38 sq metres and less than 125 sq metres,"Belltree Avenue, Donaghmede, Dublin, Ireland",53.4065193,-6.1564006,Dublin City
